@@ -1,4 +1,4 @@
-# SkeletonSemEvalTask8
+# Syntactic Skeletons for SemEval 2010 Task 8
 Syntactic skeletons for SemEval task 8 (English)
 
 
